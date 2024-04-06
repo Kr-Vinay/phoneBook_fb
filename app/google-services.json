@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259095078629",
+    "project_id": "phonebook-fb",
+    "storage_bucket": "phonebook-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259095078629:android:79406acfe00d504d99d60c",
+        "android_client_info": {
+          "package_name": "com.example.phonebook_fb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgNaMhy54RTQ-bB4uqJKHIcSlaksBXEAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
